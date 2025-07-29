@@ -1,4 +1,4 @@
-# esp-idf-touch-modbus
+# Comunicação da placa ESP32-S3-Touch-LCD-4.3B com um sensor Modbus-RTU RS485
 
 Configuração de pino RTS removida para evitar conflitos. Usando UART_PIN_NO_CHANGE
 
